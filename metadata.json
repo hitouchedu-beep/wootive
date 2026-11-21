@@ -1,0 +1,6 @@
+{
+  "name": "수학 생각연습",
+  "description": "중학교 1학년 학생들을 위한 정비례와 반비례 객관식 수학 퀴즈 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
